@@ -1,7 +1,7 @@
 @font-face  {
     font-family:  'icons';
-    src:  url('../../fonts/icons/Icons-Line.eot?v=2.4.0');
-    src:  url('../../fonts/icons/Icons-Line.eot?v=2.4.0#iefix') format('embedded-opentype'),  url('../../fonts/icons/Icons-Line.woff2?v=2.4.0') format('woff2'),  url('../../fonts/icons/Icons-Line.ttf?v=2.4.0') format('truetype'),  url('../../fonts/icons/Icons-Line.woff?v=2.4.0') format('woff'),  url('../../fonts/icons/Icons-Line.svg?v=2.4.0#icons') format('svg');
+    src:  url('../fonts/icons/Icons-Line.eot');
+    src:  url('../fonts/icons/Icons-Line.eot') format('embedded-opentype'),  url('../fonts/icons/Icons-Line.woff2') format('woff2'),  url('../../fonts/icons/Icons-Line.ttf?v=2.4.0') format('truetype'),  url('../fonts/icons/Icons-Line.woff') format('woff'),  url('../fonts/icons/Icons-Line.svg#icons') format('svg');
     font-weight:  normal;
     font-style:  normal;
 }
